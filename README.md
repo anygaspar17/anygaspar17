@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 🖤
 
-Meeu nome é Rhayany Gaspar
+Meu nome é Rhayany Gaspar
 
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
